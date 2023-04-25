@@ -24,4 +24,5 @@ The repository contains the following codes:
 5. Word break- finding if it is possible, finding the min no of words it breaks into, and printing all possible words
 6. Program to print all palindromic partitionings of a string
 7. Program to find partition of an array into 2 sets such that their difference is minimised
-8. 
+8. Coin Change problem
+9. Program to find the longest substring which is present in the array, and the reverse of it is also present, and they don't overlap.
