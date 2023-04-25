@@ -21,3 +21,7 @@ The repository contains the following codes:
 2. Program to find a knapsack such that weight is maximised and weight <= W
 3. Program to find the longest increasing subsequence of an array.
 4. Weighted Interval Scheduling
+5. Word break- finding if it is possible, finding the min no of words it breaks into, and printing all possible words
+6. Program to print all palindromic partitionings of a string
+7. Program to find partition of an array into 2 sets such that their difference is minimised
+8. 
