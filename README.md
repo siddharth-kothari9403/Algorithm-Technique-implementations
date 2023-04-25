@@ -11,4 +11,7 @@ The repository contains the following codes:
 5. Program to find the median of 2 sorted arrays
 
 # Greedy
-1. 
+1. Program to group people into groups such that the age difference is atmost 2, and minimum groups are formed.
+2. Interval covering algorithm
+3. Interval partitioning
+4. Interval Scheduling problem
