@@ -15,3 +15,9 @@ The repository contains the following codes:
 2. Interval covering algorithm
 3. Interval partitioning
 4. Interval Scheduling problem
+
+# Dynamic Programming
+1. Program to find the longest palindromic subsequence within a string
+2. Program to find a knapsack such that weight is maximised and weight <= W
+3. Program to find the longest increasing subsequence of an array.
+4. Weighted Interval Scheduling
